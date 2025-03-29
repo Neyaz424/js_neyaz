@@ -1,2 +1,3 @@
-# js_neyaz
+# js.project
+
 a code is js course 
